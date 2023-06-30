@@ -1,5 +1,5 @@
 # install dependencies 
-pip isntall -r deps.txt
+pip install -r deps.txt
 
 # run migration
 python manage.py migrate
